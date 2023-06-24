@@ -12,6 +12,10 @@ const dataSchema = new mongoose.Schema({
     share: {
         required: true,
         type: Number
+    },
+    walletAddress:{
+        reuqired: true,
+        type: String
     }
 })
 
