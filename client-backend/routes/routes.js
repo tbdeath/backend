@@ -7,7 +7,8 @@ router.post('/post', async (req, res) => {
     const data = new Model({
         name: req.body.name,
         age: req.body.SIN,
-        share: req.body.share
+        share: req.body.share,
+        WalletAddress: req.body.WalletAddress
     })
 
     try {
