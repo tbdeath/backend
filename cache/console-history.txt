@@ -1,0 +1,31 @@
+ethers
+await c.name()
+c.name()
+const c = await ethers.getContractAt("MyERC20", address)
+erc.distribute()
+const Name = await erc.name()
+const name = erc.name()
+const name = erc.address.name()
+erc.address
+const erc = await MyERC20.attach(address)
+const address = 0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+const MyERC20 = await ethers.getContractFactory('MyERC20');
+erc.name()
+erc.transfer(0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199, 0)
+accounts
+const accounts = await ethers.provider.listAccounts();
+erc.address
+const signer = ethers.getSigners()
+const signers = ethers.getSigners()
+const signers = ethers.getSignerS()
+erc.balanceOf(1.3241613105987439e+48)
+erc.address
+erc.name()
+const erc = await MyERC20.attach(addresss)
+const addresss = 0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+const address = 0xe7f1725e7734ce288f8367e1bb143e90bb3f0512
+const address = v
+const myERC20 = await MyERC20.deploy();
+v
+const myERC20 = await MyERC20.deploy();
+const MyERC20 = await ethers.getContractFactory('MyERC20');
