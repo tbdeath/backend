@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/melissawu/ethg/backend/contracts/MyERC20.sol": {
-      "lastModificationDate": 1687644494265,
-      "contentHash": "fec60eec6a9e57cfb33f7328cd1b8039",
+      "lastModificationDate": 1687652836732,
+      "contentHash": "b75a934e1a73a42f13ad1151d924d26f",
       "sourceName": "contracts/MyERC20.sol",
       "solcConfig": {
         "version": "0.8.18",
