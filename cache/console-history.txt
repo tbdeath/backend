@@ -1,3 +1,5 @@
+erc.totalSupply()
+erc.totalSupply
 ethers
 await c.name()
 c.name()
